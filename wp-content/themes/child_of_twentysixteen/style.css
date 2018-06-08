@@ -7,3 +7,14 @@ Author: Analytical Engine
 Version: 1.0
 */
 @import url(../twentysixteen/style.css);
+
+.site-title a {
+    color: #b4b9be;
+    }
+ .site-description {
+    font-size: 1.2rem; 
+    }
+
+ .site {
+    background-color: #eee;
+	}
